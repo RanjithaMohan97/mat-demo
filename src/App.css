@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+.list1{
+  /*height:250px;
+  width:500px;
+  align-items: center;*/
+  display:flex;
+  flex-direction:row;
+  padding:5px;
+}
+.inside
+{
+  width:30%;
+  padding :10px;
+}
+.picto{
+  height:150px;
+  width:150px;
+}
+.listo {
+  background-color:#F2F3F4;
+}
+.buttonspace{
+  margin:auto;
+  padding:10px; 
+}
+
+.show{
+  height:100px;
+  width:250px;
+  text-align: center;
+  margin:25px auto;
+  padding: 5px;
+}
+.dialogue{
+ 
+  text-align: center;
+  padding: 25px;
+
+
+}
